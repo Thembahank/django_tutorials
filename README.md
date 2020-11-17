@@ -10,7 +10,7 @@ Please clone and star this repo to stay up to date on changes.
 
 ## Starters
 
-**Django 3.0 & Channels Starter** | Starter repo for django tutorials
+** [Django 3.0 & Channels Starter**](./starters/starter) | Starter repo for django tutorials
 
 ##
 2020 | [themba.dev](https://themba.dev)
